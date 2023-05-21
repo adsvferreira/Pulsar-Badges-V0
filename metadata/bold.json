@@ -1,0 +1,12 @@
+{
+    "name": "BOLD",
+    "description": "Bold",
+    "image": "https://ipfs.io/ipfs/QmRCo4vM3GWnck6mh5LaDgc6RMJ9uGkwNGeXrSebe6wfmt?filename=bold.png",
+    "attributes": {
+        "boldness": 100,
+        "greed": 50,
+        "patience": 50,
+        "creativity": 75,
+        "intelligence": 50
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "POOR",
+    "description": "Poor",
+    "image": "https://ipfs.io/ipfs/QmR21tanRfVr6A5Ckh8KryHWdMAYEcjzxkAGVXLGuUgAvk?filename=poor.png",
+    "attributes": {
+        "boldness": 0,
+        "greed": 0,
+        "patience": 0,
+        "creativity": 0,
+        "intelligence": 0
+    }
+}

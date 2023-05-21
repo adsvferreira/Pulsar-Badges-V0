@@ -1,0 +1,12 @@
+{
+    "name": "DEFI",
+    "description": "Defi",
+    "image": "https://ipfs.io/ipfs/QmWGeyXQwsNvw77GwZKuNse2qejDxKcHjAEsZFaf9KB9jS?filename=defi.png",
+    "attributes": {
+        "boldness": 80,
+        "greed": 90,
+        "patience": 50,
+        "creativity": 60,
+        "intelligence": 100
+    }
+}

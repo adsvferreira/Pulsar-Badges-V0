@@ -1,0 +1,12 @@
+{
+    "name": "NFT_DEGEN",
+    "description": "NFT Degen",
+    "image": "https://ipfs.io/ipfs/QmaboktjX6WoGzmV1PFbpqAmXxWPtdT2uadqVkVpbTepBo?filename=artist.png",
+    "attributes": {
+        "boldness": 90,
+        "greed": 90,
+        "patience": 20,
+        "creativity": 100,
+        "intelligence": 50
+    }
+}

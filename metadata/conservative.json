@@ -1,0 +1,12 @@
+{
+    "name": "CONSERVATIVE",
+    "description": "Conservative",
+    "image": "https://ipfs.io/ipfs/QmSTdkSBsZtcmKHYgxxtSvPRXxBPKLUSdJjRWjazEeSKiE?filename=conservative.png",
+    "attributes": {
+        "boldness": 0,
+        "greed": 0,
+        "patience": 100,
+        "creativity": 0,
+        "intelligence": 75
+    }
+}

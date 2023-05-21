@@ -1,0 +1,12 @@
+{
+    "name": "LOW_CAP_DEGEN",
+    "description": "Low Cap Degen",
+    "image": "https://ipfs.io/ipfs/QmYdv8oTbBAzmw9PiHHrSWFN13v1T77MHHEhxrMBimkbju?filename=gambler.png",
+    "attributes": {
+        "boldness": 90,
+        "greed": 100,
+        "patience": 0,
+        "creativity": 80,
+        "intelligence": 20
+    }
+}
